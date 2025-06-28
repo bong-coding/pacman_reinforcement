@@ -5,7 +5,7 @@
 ---
 
 ## 📁 디렉토리 구조
-
+```
 reinforcement/
 ├── valueIterationAgents.py # Q1, Q4 구현
 ├── qlearningAgents.py # Q5~Q9 구현
@@ -20,6 +20,7 @@ reinforcement/
 ├── test_cases/ # 테스트 케이스 디렉토리
 └── 기타 그래픽 및 환경 파일들
 
+```
 ----
 ```bash
 python gridworld.py -a value -i 100
