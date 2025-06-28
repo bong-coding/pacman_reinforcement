@@ -5,6 +5,7 @@
 ---
 
 ## 📁 디렉토리 구조
+
 reinforcement/
 ├── valueIterationAgents.py # Q1, Q4 구현
 ├── qlearningAgents.py # Q5~Q9 구현
@@ -40,7 +41,7 @@ python pacman.py -p PacmanQAgent -x 2000 -n 2010 -l smallGrid
 
 3. **Q4**  
    - 파일: `valueIterationAgents.py`  
-   - 내용: Prioritized Sweeping Value Iteration 구현 *(추가 점수 문제)*
+   - 내용: Prioritized Sweeping Value Iteration 구현 
 
 4. **Q5~Q6**  
    - 파일: `qlearningAgents.py`  
